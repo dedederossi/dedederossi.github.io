@@ -301,10 +301,10 @@ footer {
 
          #searchButton {
            padding: 0.3em 0.6em;
-           background-color: #0B5485;
+           background-color: $white;
            border: 1px solid #f6f5ea;
            margin-left: 0;
-           color: $white;
+           color: $gray;
            -webkit-appearance: none;
            border-radius: 0;
          }
